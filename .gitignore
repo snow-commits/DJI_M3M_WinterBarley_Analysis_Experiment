@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Virtual environment
+.venv/
+
+# PyCharm
+.idea/
+
+# Local configuration
+.env
+
+# Raw and generated data
+data/
+outputs/
+
+# Large remote-sensing files
+*.tif
+*.TIF
+*.tiff
+*.TIFF
+*.jpg
+*.JPG
+*.zip
+
+# GIS temporary files
+*.gpkg-shm
+*.gpkg-wal
